@@ -1,1 +1,3 @@
 # aryaarya
+studing MCA
+sngce
